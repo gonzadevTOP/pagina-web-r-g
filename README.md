@@ -1,8 +1,7 @@
-# Project Z  HTML,CSS, JAVASCRIPT.
+# Hola! Bienvenido a al Proyecto!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## HTML,CSS, JAVASCRIPT.
 
 <p>Par llevar a cabo este proyecto, usaremos nuestros conocimientos adquiridos a traves de [The Odin Proyect](https://www.theodinproject.com/)<p>
-
-<p>`<link>` : <https://www.theodinproject.com/></p>
 
 ## Actualizaciónes 05/01/2024:
 
