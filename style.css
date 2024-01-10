@@ -6,7 +6,7 @@
 .banner{
     width: 100%;
     height: 100vh;
-    background-image: url(imagenes/batman-minimalist_1280x720_xtrafondos.com.jpg);
+    background-image: url(/pagina-web-r-g/imagenes/piasaje.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -57,7 +57,7 @@ button{
     margin: 20px 10px;
     border-radius: 25px;    
     font-weight: bold;
-    border: 2px solid #db1450;
+    border: 2px solid #242222;
     background: transparent;
     color: aliceblue;
     cursor: pointer;

@@ -25,6 +25,8 @@
 -Se agregó logo y tambien fuente de un API  de google.
 
 -Se modifico el READMI.md. 
+
+-Se cambio el Fondo y el logo.
     
 </pre> 
 
